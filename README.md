@@ -7,6 +7,8 @@ Given a truth table configuration, uses a Karnaugh-Map to simplify the SOP (Sum 
 * Uses SOP to plot on k-map
 
 ## Screenshots
-
+![Screenshot](http://individual.utoronto.ca/anupdeb/img/k-mappic.png)
+![Screenshot](http://individual.utoronto.ca/anupdeb/img/kmappic2.png)
+![Screenshot](http://individual.utoronto.ca/anupdeb/img/kmappic3.png)
 
 
